@@ -1,3 +1,6 @@
+# MY IGNORES
+HW2/checkanswers1.py*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
