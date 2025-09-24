@@ -1,3 +1,4 @@
 HW3 - PHYS661 - 25fall
-This homework can be split into two different 'regimes' which helped students practice different skills. The first was data munging. Specifically, students had to manipulate pandas data frames to align with the later analysis section. This manipulation included things like string editing, column slicing and broadcasting, using the datetime datatype, and other various techniques.
-After data munging, there was a small section dedicated to exploring the data. This included doing actual data analysis like throwing out problamatic data points and plotting the data in a histogram.
+Group: William Taranto
+
+Methdology: I used Glen Cowan's 'Statistical Data Analysis' textbook as a reference to better understand the ks-statistic.
